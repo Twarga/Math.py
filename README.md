@@ -12,16 +12,16 @@ In this Repo I will Learn math topic through Coding Projects
 - [x] **Fractions, Decimals, and Percentages**
   - [x] Convert between fractions, decimals, and percentages
   - [x] Simplify fractions
-  - [ ] **Project:** Fraction to Decimal and Percentage Converter
-    - [ ] Input a fraction and convert it to decimal and percentage
-    - [ ] Input a decimal and convertls
+  - [x] **Project:** Fraction to Decimal and Percentage Converter
+    -[x] Input a fraction and convert it to decimal and percentage
+    - [x] Input a decimal and convertls
     it to fraction and percentage
-    - [ ] Input a percentage and convert it to fraction and decimal
+    - [x] Input a percentage and convert it to fraction and decimal
 
-- [ ] **Factors and Multiples**
-  - [ ] Learn prime factorization
-  - [ ] Understand Greatest Common Divisor (GCD)
-  - [ ] Understand Least Common Multiple (LCM)
+- [x] **Factors and Multiples**
+  - [x] Learn prime factorization
+  - [x] Understand Greatest Common Divisor (GCD)
+  - [x] Understand Least Common Multiple (LCM)
   - [ ] **Project:** GCD and LCM Finder
     - [ ] Input two numbers and find their GCD
     - [ ] Input two numbers and find their LCM
