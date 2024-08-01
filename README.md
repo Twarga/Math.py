@@ -13,7 +13,7 @@ In this Repo I will Learn math topic through Coding Projects
   - [x] Convert between fractions, decimals, and percentages
   - [x] Simplify fractions
   - [x] **Project:** Fraction to Decimal and Percentage Converter
-    -[x] Input a fraction and convert it to decimal and percentage
+    - [x] Input a fraction and convert it to decimal and percentage
     - [x] Input a decimal and convertls
     it to fraction and percentage
     - [x] Input a percentage and convert it to fraction and decimal
@@ -22,13 +22,13 @@ In this Repo I will Learn math topic through Coding Projects
   - [x] Learn prime factorization
   - [x] Understand Greatest Common Divisor (GCD)
   - [x] Understand Least Common Multiple (LCM)
-  - [ ] **Project:** GCD and LCM Finder
-    - [ ] Input two numbers and find their GCD
-    - [ ] Input two numbers and find their LCM
+  - [x] **Project:** GCD and LCM Finder
+    - [x] Input two numbers and find their GCD
+    - [x] Input two numbers and find their LCM
 
-- [ ] **Prime Numbers**
-  - [ ] Understand the definition and properties of prime numbers
-  - [ ] Implement the Sieve of Eratosthenes
+- [x] **Prime Numbers**
+  - [x] Understand the definition and properties of prime numbers
+  - [x] Implement the Sieve of Eratosthenes
   - [ ] **Project:** Prime Number Checker and Generator
     - [ ] Input a number and check if it's prime
     - [ ] Generate all prime numbers up to a given number
