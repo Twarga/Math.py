@@ -29,9 +29,9 @@ In this Repo I will Learn math topic through Coding Projects
 - [x] **Prime Numbers**
   - [x] Understand the definition and properties of prime numbers
   - [x] Implement the Sieve of Eratosthenes
-  - [ ] **Project:** Prime Number Checker and Generator
-    - [ ] Input a number and check if it's prime
-    - [ ] Generate all prime numbers up to a given number
+  - [x] **Project:** Prime Number Checker and Generator
+    - [x] Input a number and check if it's prime
+    - [x] Generate all prime numbers up to a given number
 
 ## Algebra- 102
 - [ ] **Basic Algebra (Solving Linear Equations)**
