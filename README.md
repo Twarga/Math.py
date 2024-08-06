@@ -57,8 +57,8 @@ In this Repo I will Learn math topic through Coding Projects
 
 - [x] **Basic Geometry (Area and Perimeter)**
   - [x] Learn formulas for area and perimeter of common shapes (rectangle, circle, triangle, etc.)
-  - [ ] **Project:** Area and Perimeter Calculator
-    - [ ] Input dimensions of a shape and calculate its area and perimeter
+  - [x] **Project:** Area and Perimeter Calculator
+    - [x] Input dimensions of a shape and calculate its area and perimeter
 
 - [x] **Units of Measurement**
   - [x] Estimating length
