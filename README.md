@@ -53,11 +53,67 @@ In this Repo I will Learn math topic through Coding Projects
   - [ ] **Project:** Function Plotter using Matplotlib
     - [ ] Input a function and plot it on a graph
 
-## Geometry-103
-- [ ] **Basic Geometry (Area and Perimeter)**
-  - [ ] Learn formulas for area and perimeter of common shapes (rectangle, circle, triangle, etc.)
+### Geometry-103
+
+- [x] **Basic Geometry (Area and Perimeter)**
+  - [x] Learn formulas for area and perimeter of common shapes (rectangle, circle, triangle, etc.)
   - [ ] **Project:** Area and Perimeter Calculator
     - [ ] Input dimensions of a shape and calculate its area and perimeter
+
+- [x] **Units of Measurement**
+  - [x] Estimating length
+  - [x] Converting units of mass
+  - [x] Converting units of length
+  - [x] Conversion word problems (larger to smaller)
+  - [x] Converting to larger or smaller
+  - [x] Converting metric units word problems
+  - [ ] **Project:** Unit Converter
+    - [ ] Create a program that converts between different units of measurement
+
+- [x] **Mass, Volume, and Scale**
+  - [x] Mass
+  - [x] Volume
+  - [ ] **Project:** Volume and Mass Calculator
+    - [ ] Input dimensions and calculate the volume and mass of different objects
+
+- [x] **Measuring Angles**
+  - [x] All about angles
+  - [ ] **Project:** Angle Finder
+    - [ ] Create a program that calculates and classifies angles based on user input
+
+- [x] **Angle Relationships**
+  - [x] Vertical complementary and supplementary angles
+  - [x] Missing angles problems
+  - [x] Parallel lines and transversals
+  - [ ] **Project:** Angle Relationship Solver
+    - [ ] Develop a tool to solve problems involving angle relationships
+
+- [x] **Plan Figures**
+  - [x] Quadrilaterals
+  - [x] Classifying triangles
+  - [x] Parallel and perpendicular
+  - [x] Classifying geometric shapes
+  - [x] More on quadrilaterals
+  - [x] Properties of shapes
+  - [ ] **Project:** Shape Classifier
+    - [ ] Create a program that classifies different shapes based on user input
+
+- [x] **Circles, Cylinders, Cones, and Spheres**
+  - [x] Area and circumference of circles
+  - [x] Area and circumference of fractions of circles
+  - [x] Volume of cylinders, spheres, and cones
+  - [ ] **Project:** Circle and Solid Shape Calculator
+    - [ ] Develop a program to calculate areas and volumes of circles, cylinders, cones, and spheres
+  - [ ] **Project:** 3D Shape Explorer
+    - [ ] Create a program that calculates volume and surface area of various 3D figures
+
+- [ ] **Triangle Side Lengths**
+  - [ ] Constructing triangles
+  - [ ] Pythagorean theorem
+  - [ ] Pythagorean theorem application
+  - [ ] Pythagorean theorem and distance between points
+  - [ ] **Project:** Triangle Solver
+    - [ ] Develop a tool to solve problems related to triangle side lengths and the Pythagorean theorem
 
 - [ ] **Pythagorean Theorem**
   - [ ] Understand the Pythagorean theorem (a² + b² = c²)
@@ -65,12 +121,24 @@ In this Repo I will Learn math topic through Coding Projects
   - [ ] **Project:** Pythagorean Theorem Calculator
     - [ ] Input lengths of two sides of a right triangle and find the third side
 
+- [ ] **Geometric Transformations**
+  - [ ] Transformations intro
+  - [ ] Translations
+  - [ ] Rotations
+  - [ ] Reflections
+  - [ ] Properties and definition of transformations
+  - [ ] Dilations
+  - [ ] Congruence and similarity
+  - [ ] **Project:** Transformation Visualizer
+    - [ ] Create a program that visualizes different geometric transformations
+
 - [ ] **Coordinate Geometry**
   - [ ] Learn the distance formula
   - [ ] Understand the slope of a line
   - [ ] **Project:** Distance and Slope Calculator
     - [ ] Input coordinates of two points and calculate the distance between them
     - [ ] Input coordinates of two points and find the slope of the line
+
 
 ## Trigonometry- 206
 - [ ] **Trigonometric Ratios (Sine, Cosine, Tangent)**
