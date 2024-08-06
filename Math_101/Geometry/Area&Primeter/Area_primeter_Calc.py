@@ -1,9 +1,19 @@
 import math 
-
+import sys 
 PI = math.pi
 session = True 
+def print_colored(text, color, end='\n'):
+    colors = {
+        'red'  : '\x1b[31m',
+        'green': '\x1b[32m',
+        'blue': '\x1b[34m'
+    }
+    reset = '\x1b[0m'
+
+    sys.stdout.write(colors.get(color, '') + text +  reset + end )
+
 def display():
-    print("Welcome to the Area and Perimeter Calculator")
+    print_colored("Welcome to the Area and Perimeter Calculator" , color='blue')
     print("--------------------------------------")
     print("1. Rectangle")
     print("2. Square")
@@ -15,29 +25,29 @@ def display():
 def rec_ap(l,w):
     area = l * w 
     perimeter = 2*(l+w)
-    print(f"Your Rectangle Area is : {area}")
-    print(f"Your rectangle perismeter is : {perimeter}")
+    print_colored(f"Your Rectangle Area is : {area}" , color='green')
+    print_colored(f"Your rectangle perismeter is : {perimeter}", color="red")
 
 
 def s_ap(s):
     area = math.pow(s,2)
     perimeter = 4 * s 
-    print(f"Your sqaure Area is : {area} ")
-    print(f"Your square perimeter is : {perimeter}")
+    print_colored(f"Your sqaure Area is : {area} " , color='green')
+    print_colored(f"Your square perimeter is : {perimeter}", color='red')
 
 def C_ac(r):
     area = PI * math.pow(r,2)
     Circumference = 2 * PI * r
-    print(f"Your Circle Area is : {area}")
-    print(f"Your Circle Circumference is : {Circumference}") 
+    print_colored(f"Your Circle Area is : {area}" , color='green')
+    print_colored(f"Your Circle Circumference is : {Circumference}",color='red') 
 
 def t_area(b,h):
     area = 0.5 * b * h
-    print(f"Your Triangle area is :{area}" )
+    print_colored(f"Your Triangle area is :{area}" , color='green')
 
 def t_perimeter(s1,s2,s3):
     perimeter = s1+s2+s3
-    print(f"Your Triangle Perimeter is {perimeter} ")
+    print_colored(f"Your Triangle Perimeter is {perimeter} " , color='red')
 
 def session_handler():
     while True : 
@@ -89,7 +99,7 @@ def main():
                 t_perimeter(s1,s2,s3)
                 session_handler()
         elif choice == 5 :
-            print("by have a great day :) !!")
+            print_colored("by have a great day :) !!" , color='blue')
             break
         else :
             print("Please enter a valid choice : ")
