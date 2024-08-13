@@ -67,14 +67,14 @@ In this Repo I will Learn math topic through Coding Projects
   - [x] Conversion word problems (larger to smaller)
   - [x] Converting to larger or smaller
   - [x] Converting metric units word problems
-  - [ ] **Project:** Unit Converter
-    - [ ] Create a program that converts between different units of measurement
+  - [x] **Project:** Unit Converter
+    - [x] Create a program that converts between different units of measurement
 
 - [x] **Mass, Volume, and Scale**
   - [x] Mass
   - [x] Volume
-  - [ ] **Project:** Volume and Mass Calculator
-    - [ ] Input dimensions and calculate the volume and mass of different objects
+  - [x] **Project:** Volume and Mass Calculator
+    - [x] Input dimensions and calculate the volume and mass of different objects
 
 - [x] **Measuring Angles**
   - [x] All about angles
