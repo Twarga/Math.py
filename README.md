@@ -105,17 +105,17 @@ In this Repo I will Learn math topic through Coding Projects
   - [x] **Project:** 3D Shape Explorer
     - [x] Create a program that calculates volume and surface area of various 3D figures
 
-- [ ] **Triangle Side Lengths**
-  - [ ] Constructing triangles
-  - [ ] Pythagorean theorem
-  - [ ] Pythagorean theorem application
-  - [ ] Pythagorean theorem and distance between points
+- [x] **Triangle Side Lengths**
+  - [x] Constructing triangles
+  - [x] Pythagorean theorem
+  - [x] Pythagorean theorem application
+  - [x] Pythagorean theorem and distance between points
   - [ ] **Project:** Triangle Solver
     - [ ] Develop a tool to solve problems related to triangle side lengths and the Pythagorean theorem
 
-- [ ] **Pythagorean Theorem**
-  - [ ] Understand the Pythagorean theorem (a² + b² = c²)
-  - [ ] Apply it to right triangles
+- [x] **Pythagorean Theorem**
+  - [x] Understand the Pythagorean theorem (a² + b² = c²)
+  - [x] Apply it to right triangles
   - [ ] **Project:** Pythagorean Theorem Calculator
     - [ ] Input lengths of two sides of a right triangle and find the third side
 
@@ -129,7 +129,7 @@ In this Repo I will Learn math topic through Coding Projects
   - [ ] Congruence and similarity
   - [ ] **Project:** Transformation Visualizer
     - [ ] Create a program that visualizes different geometric transformations
-
+	
 - [ ] **Coordinate Geometry**
   - [ ] Learn the distance formula
   - [ ] Understand the slope of a line
