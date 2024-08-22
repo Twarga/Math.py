@@ -78,16 +78,14 @@ In this Repo I will Learn math topic through Coding Projects
 
 - [x] **Measuring Angles**
   - [x] All about angles
-  - [ ] **Project:** Angle Finder
-    - [ ] Create a program that calculates and classifies angles based on user input
+  - [x] **Project:** Angle Finder
+    - [x] Create a program that calculates and classifies angles based on user input
 
 - [x] **Angle Relationships**
   - [x] Vertical complementary and supplementary angles
   - [x] Missing angles problems
   - [x] Parallel lines and transversals
-  - [ ] **Project:** Angle Relationship Solver
-    - [ ] Develop a tool to solve problems involving angle relationships
-
+  
 - [x] **Plan Figures**
   - [x] Quadrilaterals
   - [x] Classifying triangles
@@ -102,10 +100,10 @@ In this Repo I will Learn math topic through Coding Projects
   - [x] Area and circumference of circles
   - [x] Area and circumference of fractions of circles
   - [x] Volume of cylinders, spheres, and cones
-  - [ ] **Project:** Circle and Solid Shape Calculator
-    - [ ] Develop a program to calculate areas and volumes of circles, cylinders, cones, and spheres
-  - [ ] **Project:** 3D Shape Explorer
-    - [ ] Create a program that calculates volume and surface area of various 3D figures
+  - [x] **Project:** Circle and Solid Shape Calculator
+    - [x] Develop a program to calculate areas and volumes of circles, cylinders, cones, and spheres
+  - [x] **Project:** 3D Shape Explorer
+    - [x] Create a program that calculates volume and surface area of various 3D figures
 
 - [ ] **Triangle Side Lengths**
   - [ ] Constructing triangles
