@@ -110,29 +110,18 @@ In this Repo I will Learn math topic through Coding Projects
   - [x] Pythagorean theorem
   - [x] Pythagorean theorem application
   - [x] Pythagorean theorem and distance between points
-  - [ ] **Project:** Triangle Solver
-    - [ ] Develop a tool to solve problems related to triangle side lengths and the Pythagorean theorem
+  - [x] **Project:** Triangle Solver
+    - [x] Develop a tool to solve problems related to triangle side lengths and the Pythagorean theorem
 
 - [x] **Pythagorean Theorem**
   - [x] Understand the Pythagorean theorem (a² + b² = c²)
   - [x] Apply it to right triangles
-  - [ ] **Project:** Pythagorean Theorem Calculator
-    - [ ] Input lengths of two sides of a right triangle and find the third side
+  - [x] **Project:** Pythagorean Theorem Calculator
+    - [x] Input lengths of two sides of a right triangle and find the third side
 
-- [ ] **Geometric Transformations**
-  - [ ] Transformations intro
-  - [ ] Translations
-  - [ ] Rotations
-  - [ ] Reflections
-  - [ ] Properties and definition of transformations
-  - [ ] Dilations
-  - [ ] Congruence and similarity
-  - [ ] **Project:** Transformation Visualizer
-    - [ ] Create a program that visualizes different geometric transformations
-	
-- [ ] **Coordinate Geometry**
-  - [ ] Learn the distance formula
-  - [ ] Understand the slope of a line
+- [x] **Coordinate Geometry**
+  - [x] Learn the distance formula
+  - [x] Understand the slope of a line
   - [ ] **Project:** Distance and Slope Calculator
     - [ ] Input coordinates of two points and calculate the distance between them
     - [ ] Input coordinates of two points and find the slope of the line

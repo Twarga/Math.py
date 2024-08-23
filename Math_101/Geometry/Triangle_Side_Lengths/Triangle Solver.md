@@ -44,7 +44,7 @@ You are creating a Python program called "Triangle Solver" with the following fe
    - **Classify Triangle:**
      - Input: Three sides of a triangle.
      - Output: Type of triangle (equilateral, isosceles, or scalene).
-a = b != c or a = c!= b or b = c != a
+
 3. **Input Validation:**
    - Ensure the program handles invalid inputs properly.
 
