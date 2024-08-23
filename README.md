@@ -122,9 +122,9 @@ In this Repo I will Learn math topic through Coding Projects
 - [x] **Coordinate Geometry**
   - [x] Learn the distance formula
   - [x] Understand the slope of a line
-  - [ ] **Project:** Distance and Slope Calculator
-    - [ ] Input coordinates of two points and calculate the distance between them
-    - [ ] Input coordinates of two points and find the slope of the line
+  - [x] **Project:** Distance and Slope Calculator
+    - [x] Input coordinates of two points and calculate the distance between them
+    - [x] Input coordinates of two points and find the slope of the line
 
 
 ## Trigonometry- 206
